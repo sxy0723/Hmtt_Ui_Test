@@ -1,0 +1,14 @@
+{
+  "test_pub_ari_01": {
+    "ari_title": "BJ23_TESTER_NB_{}",
+    "ari_context": "书法家极可能阿坎德,见识过都我反对快快离开",
+    "ari_channel": "软件测试",
+    "expect": "新增文章成功"
+  },
+    "test_pub_ari_02": {
+    "ari_title": "BJ23_TESTER_FCNB_{}",
+    "ari_context": "书法家极可能阿坎德",
+    "ari_channel": "人工智能",
+    "expect": "新增文章成功"
+  }
+}

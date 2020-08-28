@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_pub_article.py:31 发布的文章标题BJ23_TESTER_NB_171207

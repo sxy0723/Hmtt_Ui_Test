@@ -1,0 +1,91 @@
+[ {
+  "uid" : "2f72bea3c67da6cd",
+  "name" : "test_aduit_ari_pass",
+  "time" : {
+    "start" : 1598433182525,
+    "stop" : 1598433199757,
+    "duration" : 17232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cef0244469eee",
+  "name" : "test_pub_ari[BJ23_TESTER_NB_{}-书法家极可能阿坎德,见识过都我反对快快离开-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598517240382,
+    "stop" : 1598517253802,
+    "duration" : 13420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56311866e17f5d6",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598433171522,
+    "stop" : 1598433171522,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c475619f2a54ed5",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598517232435,
+    "stop" : 1598517232435,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d41cc332af32b50",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598517262723,
+    "stop" : 1598517269104,
+    "duration" : 6381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f300357142885183",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598517238764,
+    "stop" : 1598517239862,
+    "duration" : 1098
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33bfae14c82c812c",
+  "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-书法家极可能阿坎德-人工智能-新增文章成功]",
+  "time" : {
+    "start" : 1598517254230,
+    "stop" : 1598517262688,
+    "duration" : 8458
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba5d786549211c18",
+  "name" : "test_mis_login",
+  "time" : {
+    "start" : 1598433179078,
+    "stop" : 1598433182518,
+    "duration" : 3440
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e4f3213477c1b48",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598433199766,
+    "stop" : 1598433206040,
+    "duration" : 6274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

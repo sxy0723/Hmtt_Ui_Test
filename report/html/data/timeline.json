@@ -1,0 +1,367 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-9HIT7VU",
+    "children" : [ {
+      "name" : "8540-MainThread",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "58cb4e5a39664545",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433165235,
+          "stop" : 1598433171518,
+          "duration" : 6283
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_aduit_ari_pass",
+        "uid" : "2f72bea3c67da6cd",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433182525,
+          "stop" : 1598433199757,
+          "duration" : 17232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "3e4f3213477c1b48",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433199766,
+          "stop" : 1598433206040,
+          "duration" : 6274
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "3603fbb8f27882a2",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433118607,
+          "stop" : 1598433118608,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-书法家极可能阿坎德-人工智能-新增文章成功]",
+        "uid" : "2474f335c8367c1",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433156997,
+          "stop" : 1598433165215,
+          "duration" : 8218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'书法家极可能阿坎德'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "65c25155be4cfa26",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433125249,
+          "stop" : 1598433126702,
+          "duration" : 1453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mis_login",
+        "uid" : "ba5d786549211c18",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433179078,
+          "stop" : 1598433182518,
+          "duration" : 3440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-书法家极可能阿坎德,见识过都我反对快快离开-软件测试-新增文章成功]",
+        "uid" : "390bd262ffec2051",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433127634,
+          "stop" : 1598433140893,
+          "duration" : 13259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'书法家极可能阿坎德,见识过都我反对快快离开'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "56311866e17f5d6",
+        "parentUid" : "408d970f1203bf03c2ccc8879cc3f1ae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598433171522,
+          "stop" : 1598433171522,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "408d970f1203bf03c2ccc8879cc3f1ae"
+    }, {
+      "name" : "7916-MainThread",
+      "children" : [ {
+        "name" : "test_mp_login",
+        "uid" : "165a2bd0be8b4138",
+        "parentUid" : "8a000baabeeaff54513e35ce1ad68231",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432890928,
+          "stop" : 1598432892708,
+          "duration" : 1780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a000baabeeaff54513e35ce1ad68231"
+    }, {
+      "name" : "244-MainThread",
+      "children" : [ {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-书法家极可能阿坎德-人工智能-新增文章成功]",
+        "uid" : "b0ad18df17782738",
+        "parentUid" : "23229dc679ce9588dfd68851ff6cd9c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515264352,
+          "stop" : 1598515272564,
+          "duration" : 8212
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'书法家极可能阿坎德'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "7d263763378ae900",
+        "parentUid" : "23229dc679ce9588dfd68851ff6cd9c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515272580,
+          "stop" : 1598515278843,
+          "duration" : 6263
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "702a59d4b825e6ad",
+        "parentUid" : "23229dc679ce9588dfd68851ff6cd9c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515248698,
+          "stop" : 1598515250127,
+          "duration" : 1429
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "54152e732398f32b",
+        "parentUid" : "23229dc679ce9588dfd68851ff6cd9c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515242216,
+          "stop" : 1598515242216,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-书法家极可能阿坎德,见识过都我反对快快离开-软件测试-新增文章成功]",
+        "uid" : "848d7b222fae01fc",
+        "parentUid" : "23229dc679ce9588dfd68851ff6cd9c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598515250765,
+          "stop" : 1598515263993,
+          "duration" : 13228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'书法家极可能阿坎德,见识过都我反对快快离开'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      } ],
+      "uid" : "23229dc679ce9588dfd68851ff6cd9c7"
+    }, {
+      "name" : "1972-MainThread",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "5c27c534ab4eddb2",
+        "parentUid" : "07f93c6ac10777a060f26caeb343057b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432969999,
+          "stop" : 1598432976281,
+          "duration" : 6282
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-书法家极可能阿坎德,见识过都我反对快快离开-软件测试-新增文章成功]",
+        "uid" : "bb537f23228c72e4",
+        "parentUid" : "07f93c6ac10777a060f26caeb343057b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598432966491,
+          "stop" : 1598432967857,
+          "duration" : 1366
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'书法家极可能阿坎德,见识过都我反对快快离开'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "fdfc03f5544245f2",
+        "parentUid" : "07f93c6ac10777a060f26caeb343057b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432963605,
+          "stop" : 1598432965463,
+          "duration" : 1858
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "af50516292f662b9",
+        "parentUid" : "07f93c6ac10777a060f26caeb343057b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432976286,
+          "stop" : 1598432976287,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-书法家极可能阿坎德-人工智能-新增文章成功]",
+        "uid" : "8ea8bedc41722f05",
+        "parentUid" : "07f93c6ac10777a060f26caeb343057b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598432968625,
+          "stop" : 1598432969923,
+          "duration" : 1298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'书法家极可能阿坎德'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "aeb9de36b33317e3",
+        "parentUid" : "07f93c6ac10777a060f26caeb343057b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598432956455,
+          "stop" : 1598432956455,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07f93c6ac10777a060f26caeb343057b"
+    }, {
+      "name" : "232-MainThread",
+      "children" : [ {
+        "name" : "test_pub_ari[BJ23_TESTER_NB_{}-书法家极可能阿坎德,见识过都我反对快快离开-软件测试-新增文章成功]",
+        "uid" : "7cef0244469eee",
+        "parentUid" : "ba01fe6a5854e28c333ec18934e3f3b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517240382,
+          "stop" : 1598517253802,
+          "duration" : 13420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'书法家极可能阿坎德,见识过都我反对快快离开'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "1d41cc332af32b50",
+        "parentUid" : "ba01fe6a5854e28c333ec18934e3f3b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517262723,
+          "stop" : 1598517269104,
+          "duration" : 6381
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mp_login",
+        "uid" : "f300357142885183",
+        "parentUid" : "ba01fe6a5854e28c333ec18934e3f3b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517238764,
+          "stop" : 1598517239862,
+          "duration" : 1098
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_begin",
+        "uid" : "6c475619f2a54ed5",
+        "parentUid" : "ba01fe6a5854e28c333ec18934e3f3b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517232435,
+          "stop" : 1598517232435,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-书法家极可能阿坎德-人工智能-新增文章成功]",
+        "uid" : "33bfae14c82c812c",
+        "parentUid" : "ba01fe6a5854e28c333ec18934e3f3b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598517254230,
+          "stop" : 1598517262688,
+          "duration" : 8458
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'书法家极可能阿坎德'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+      } ],
+      "uid" : "ba01fe6a5854e28c333ec18934e3f3b4"
+    } ],
+    "uid" : "7d40c42205dd102e8bd5b1ee64836b99"
+  } ]
+}

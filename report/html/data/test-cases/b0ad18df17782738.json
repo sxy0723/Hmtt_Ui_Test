@@ -1,0 +1,129 @@
+{
+  "uid" : "b0ad18df17782738",
+  "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-书法家极可能阿坎德-人工智能-新增文章成功]",
+  "fullName" : "case.mp.test_pub_article.TestPubArticle#test_pub_ari",
+  "historyId" : "70b8430bbd0e8354cc499dd81e7c002e",
+  "time" : {
+    "start" : 1598515264352,
+    "stop" : 1598515272564,
+    "duration" : 8212
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598515250139,
+      "stop" : 1598515250139,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1598515264008,
+      "stop" : 1598515264351,
+      "duration" : 343
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598515272573,
+      "stop" : 1598515272573,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1598515272572,
+      "stop" : 1598515272572,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_article"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPubArticle"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-9HIT7VU"
+  }, {
+    "name" : "thread",
+    "value" : "244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_pub_article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ari_channel",
+    "value" : "'人工智能'"
+  }, {
+    "name" : "ari_context",
+    "value" : "'书法家极可能阿坎德'"
+  }, {
+    "name" : "ari_title",
+    "value" : "'BJ23_TESTER_FCNB_{}'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "b0ad18df17782738.json",
+  "parameterValues" : [ "'人工智能'", "'书法家极可能阿坎德'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+}

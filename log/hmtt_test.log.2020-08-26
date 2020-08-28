@@ -1,0 +1,11 @@
+2020-08-26 16:15:40,807 INFO [root] [test_pub_article.py(test_pub_ari:31)] - ('发布的文章标题', 'BJ23_TESTER_NB_161540')
+2020-08-26 16:16:11,057 INFO [root] [test_pub_article.py(test_pub_ari:31)] - ('发布的文章标题', 'BJ23_TESTER_FCNB_161611')
+2020-08-26 16:25:19,983 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题None
+2020-08-26 16:28:55,108 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题None
+2020-08-26 16:31:54,487 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题None
+2020-08-26 16:53:34,506 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题None
+2020-08-26 17:08:26,063 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题None
+2020-08-26 17:09:26,491 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题None
+2020-08-26 17:09:28,625 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题None
+2020-08-26 17:12:07,634 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题BJ23_TESTER_NB_171207
+2020-08-26 17:12:36,997 INFO [root] [test_pub_article.py(test_pub_ari:31)] - 发布的文章标题BJ23_TESTER_FCNB_171236

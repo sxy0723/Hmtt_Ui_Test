@@ -1,0 +1,194 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.mis",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "56311866e17f5d6",
+          "parentUid" : "92d6fd506fe15de715dba85c857b9e2c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598433171522,
+            "stop" : 1598433171522,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "92d6fd506fe15de715dba85c857b9e2c"
+      } ],
+      "uid" : "1632d54204f30900ab8e5c2e54d882c8"
+    }, {
+      "name" : "test_mis_login",
+      "children" : [ {
+        "name" : "TestMisLogin",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "ba5d786549211c18",
+          "parentUid" : "710db99f1e3d9c6ccd6d5ca8ab9bb824",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598433179078,
+            "stop" : 1598433182518,
+            "duration" : 3440
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "710db99f1e3d9c6ccd6d5ca8ab9bb824"
+      } ],
+      "uid" : "6c3c7ab5edaf6b2b941fd82ff4665642"
+    }, {
+      "name" : "test_artical_manage",
+      "children" : [ {
+        "name" : "TestArticleManage",
+        "children" : [ {
+          "name" : "test_aduit_ari_pass",
+          "uid" : "2f72bea3c67da6cd",
+          "parentUid" : "c8a17cfc7d37ff253016b7bbd65e27e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598433182525,
+            "stop" : 1598433199757,
+            "duration" : 17232
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c8a17cfc7d37ff253016b7bbd65e27e1"
+      } ],
+      "uid" : "2f21957de8e6634c1d6566510b386483"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "3e4f3213477c1b48",
+          "parentUid" : "f2d59446f19e3bc6ded5462f07e92795",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598433199766,
+            "stop" : 1598433206040,
+            "duration" : 6274
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f2d59446f19e3bc6ded5462f07e92795"
+      } ],
+      "uid" : "bf0c7b5b1f57bd0e2056e93fbd586b89"
+    } ],
+    "uid" : "161959b9461abb8732fe0e097cab26a7"
+  }, {
+    "name" : "case.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "6c475619f2a54ed5",
+          "parentUid" : "3c7444421aa48d967fd98d9d2953d445",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517232435,
+            "stop" : 1598517232435,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3c7444421aa48d967fd98d9d2953d445"
+      } ],
+      "uid" : "5b3bf97fa043c3daa3460017b03b53db"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "f300357142885183",
+          "parentUid" : "5268a13642b16d5069937046a2d4caa2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517238764,
+            "stop" : 1598517239862,
+            "duration" : 1098
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5268a13642b16d5069937046a2d4caa2"
+      } ],
+      "uid" : "6b60fc946431692c75234dc30a522d97"
+    }, {
+      "name" : "test_pub_article",
+      "children" : [ {
+        "name" : "TestPubArticle",
+        "children" : [ {
+          "name" : "test_pub_ari[BJ23_TESTER_NB_{}-书法家极可能阿坎德,见识过都我反对快快离开-软件测试-新增文章成功]",
+          "uid" : "7cef0244469eee",
+          "parentUid" : "7d2953435733c9f56f4849f0324df6dd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517240382,
+            "stop" : 1598517253802,
+            "duration" : 13420
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'书法家极可能阿坎德,见识过都我反对快快离开'", "'BJ23_TESTER_NB_{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_pub_ari[BJ23_TESTER_FCNB_{}-书法家极可能阿坎德-人工智能-新增文章成功]",
+          "uid" : "33bfae14c82c812c",
+          "parentUid" : "7d2953435733c9f56f4849f0324df6dd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517254230,
+            "stop" : 1598517262688,
+            "duration" : 8458
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'人工智能'", "'书法家极可能阿坎德'", "'BJ23_TESTER_FCNB_{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "7d2953435733c9f56f4849f0324df6dd"
+      } ],
+      "uid" : "f2ead458077cebf698ad037b74a73535"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "1d41cc332af32b50",
+          "parentUid" : "f7918d47dc6a7a0e6a3c29baa36cc519",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598517262723,
+            "stop" : 1598517269104,
+            "duration" : 6381
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f7918d47dc6a7a0e6a3c29baa36cc519"
+      } ],
+      "uid" : "8c16a6158e4ca1187e1ffb4035fedc9a"
+    } ],
+    "uid" : "1ce536a0a895f6300c151295e589a3fd"
+  } ]
+}
